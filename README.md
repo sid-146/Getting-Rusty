@@ -2,6 +2,8 @@
 Getting Rusty
 </h1>
 
+<!-- Add details about cargo -->
+
 Rust is a modern, systems programming language that combines high performance with a strong emphasis on memory safety and zero-cost abstractions. What sets Rust apart is its ownership system, which enables fine-grained control over memory allocation without the need for a garbage collector. Rust is particularly well-suited for building robust and efficient systems, including operating systems, game engines, and networked applications.
 
 <h2 style='text-align:center;'>Variables</h2>
