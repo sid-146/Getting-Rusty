@@ -1,8 +1,11 @@
-# Rust
+<h1 style='text-align:center; color:#b7410e '>
+Getting Rusty
+</h1>
 
 Rust is a modern, systems programming language that combines high performance with a strong emphasis on memory safety and zero-cost abstractions. What sets Rust apart is its ownership system, which enables fine-grained control over memory allocation without the need for a garbage collector. Rust is particularly well-suited for building robust and efficient systems, including operating systems, game engines, and networked applications.
 
-### Variables
+<h2 style='text-align:center;'>Variables</h2>
+<!-- ## Variables -->
 
 `let` is used to create a variable
 
@@ -14,7 +17,8 @@ In rust the variables are immutable by default to make them mutable `mut` keywor
 
 `let mut variable_name = value_to_assign`
 
-### Sample Code for variable
+<h3 style='text-align:center;'>Sample Code for variable</h3>
+<!-- ### Sample Code for variable -->
 
 ```
 // default variable are immutable
