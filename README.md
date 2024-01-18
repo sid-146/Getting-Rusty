@@ -40,12 +40,12 @@ println!("This is const MY_COUNT : {}", MY_COUNT);
 #This is const MY_COUNT x : 100000
 ```
 
-#### Shadowing
+### Shadowing
 
 - Shadowing allows you to create a variable with same name
 - But once the new value is assigned the old value is lost
 
-Why shadowing
+### Why shadowing
 
 - It preserves mutability
 - see i have not used mut keyword still i am able to change the value of shadow variable
@@ -75,4 +75,6 @@ println!("This is string shadow : {}", shadow);
 #This is int shadow : This is string
 ```
 
-Made by ❤ `sid-146`
+<p style= "text-align :center;">
+Made by ❤ sid-146
+</p>
